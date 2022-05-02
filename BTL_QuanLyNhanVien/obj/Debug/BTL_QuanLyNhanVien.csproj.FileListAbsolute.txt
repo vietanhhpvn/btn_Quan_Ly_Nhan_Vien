@@ -1,0 +1,13 @@
+F:\Nam 2021-2022\Hoc Ki IV\Lap trinh window\Bai_tap_Nhom\BTL_QuanLyNhanVien\BTL_QuanLyNhanVien\bin\Debug\BTL_QuanLyNhanVien.exe.config
+F:\Nam 2021-2022\Hoc Ki IV\Lap trinh window\Bai_tap_Nhom\BTL_QuanLyNhanVien\BTL_QuanLyNhanVien\bin\Debug\BTL_QuanLyNhanVien.exe
+F:\Nam 2021-2022\Hoc Ki IV\Lap trinh window\Bai_tap_Nhom\BTL_QuanLyNhanVien\BTL_QuanLyNhanVien\bin\Debug\BTL_QuanLyNhanVien.pdb
+F:\Nam 2021-2022\Hoc Ki IV\Lap trinh window\Bai_tap_Nhom\BTL_QuanLyNhanVien\BTL_QuanLyNhanVien\obj\Debug\BTL_QuanLyNhanVien.csproj.AssemblyReference.cache
+F:\Nam 2021-2022\Hoc Ki IV\Lap trinh window\Bai_tap_Nhom\BTL_QuanLyNhanVien\BTL_QuanLyNhanVien\obj\Debug\BTL_QuanLyNhanVien.FormDangNhap.resources
+F:\Nam 2021-2022\Hoc Ki IV\Lap trinh window\Bai_tap_Nhom\BTL_QuanLyNhanVien\BTL_QuanLyNhanVien\obj\Debug\BTL_QuanLyNhanVien.FormMain.resources
+F:\Nam 2021-2022\Hoc Ki IV\Lap trinh window\Bai_tap_Nhom\BTL_QuanLyNhanVien\BTL_QuanLyNhanVien\obj\Debug\BTL_QuanLyNhanVien.Properties.Resources.resources
+F:\Nam 2021-2022\Hoc Ki IV\Lap trinh window\Bai_tap_Nhom\BTL_QuanLyNhanVien\BTL_QuanLyNhanVien\obj\Debug\BTL_QuanLyNhanVien.csproj.GenerateResource.cache
+F:\Nam 2021-2022\Hoc Ki IV\Lap trinh window\Bai_tap_Nhom\BTL_QuanLyNhanVien\BTL_QuanLyNhanVien\obj\Debug\BTL_QuanLyNhanVien.csproj.CoreCompileInputs.cache
+F:\Nam 2021-2022\Hoc Ki IV\Lap trinh window\Bai_tap_Nhom\BTL_QuanLyNhanVien\BTL_QuanLyNhanVien\obj\Debug\BTL_QuanLyNhanVien.exe
+F:\Nam 2021-2022\Hoc Ki IV\Lap trinh window\Bai_tap_Nhom\BTL_QuanLyNhanVien\BTL_QuanLyNhanVien\obj\Debug\BTL_QuanLyNhanVien.pdb
+F:\Nam 2021-2022\Hoc Ki IV\Lap trinh window\Bai_tap_Nhom\BTL_QuanLyNhanVien\BTL_QuanLyNhanVien\obj\Debug\BTL_QuanLyNhanVien.FormThemNhanVien.resources
+F:\Nam 2021-2022\Hoc Ki IV\Lap trinh window\Bai_tap_Nhom\BTL_QuanLyNhanVien\BTL_QuanLyNhanVien\obj\Debug\BTL_QuanLyNhanVien.FormDangKy.resources
